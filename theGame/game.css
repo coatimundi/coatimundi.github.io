@@ -1,0 +1,72 @@
+.wrapper{
+background-image: url("http://4d663a369f9f03c3c61e-870e77779efd63f7bd6c2ee08d8cfae6.r2.cf1.rackcdn.com/images/W_QPHu7wiO1u.840x0.Vdef9Kkm.jpg");
+position:absolute;
+width:100%;
+height:100%;
+background-repeat:no-repeat;
+background-size:contain;
+}
+
+#Start{
+	position:absolute;
+	left:30%;
+	top:45%;
+    width:80px;
+    height:30px;
+    background-color:red;
+}
+
+.secondWrapper {
+background-image: url("http://i634.photobucket.com/albums/uu65/gabonica83/darkroom.jpg");
+position:absolute;
+width:100%;
+height:100%;
+background-repeat:no-repeat;
+background-size:contain;
+}
+
+.hidden {
+	display:none;
+}
+.thirdWrapper{
+	background-image:url("http://20100315140414_3295131.webstarts.com/uploads/bg_black-blue.jpg");
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+#tool{
+	position:absolute;
+	left:30%;
+	top:45%;
+	width:80px;
+	height:30px;
+	background-color:red;
+
+
+}
+#light{
+	position:absolute;
+	left:60%;
+	top:45%;
+	width:80px;
+	height:30px;
+	background-color:red;
+}
+
+#over{
+	color: white;
+}
+#win{
+	color: gold;
+}
+
+.fourthWrapper{
+	background-image:url("http://vignette1.wikia.nocookie.net/legendarywars/images/c/cf/Gold-star-graphic.png/revision/latest?cb=20110731175920");
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
